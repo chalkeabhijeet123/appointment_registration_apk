@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656192084061",
+    "project_id": "appointmentbookingproject",
+    "storage_bucket": "appointmentbookingproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656192084061:android:f663c517a399552a0c15b4",
+        "android_client_info": {
+          "package_name": "com.abhijeet.appointment_registration_apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656192084061-lmpbjo7snnjkne579lisni9fqqm5ij9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCACP7LBaA8t6M6gGR04Q2Wwyt219NE85s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656192084061-lmpbjo7snnjkne579lisni9fqqm5ij9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
